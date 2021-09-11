@@ -1,1 +1,40 @@
-# websight
+###websight
+https://github.com/Munmud/bangla-programming-resources
+1) https://www.howtocode.dev/
+2) https://developer.mozilla.org/bn/
+3) https://anindyaspaul.com/blog/
+4) http://lordamit.blogspot.com/
+5) https://azharibnmostafiz.wordpress.com/
+6) http://chorui12.blogspot.com/
+7) http://masnun.com/
+😎 http://ww1.abuasifkhan.me/
+9) https://medium.com/@amialavola
+10) https://sites.google.com/site/smilitude/
+11) http://apikothon.com/
+12) http://software-engineering-notes-in-bangla.blogspot.com/
+13) https://logicalforhad.wordpress.com/
+14) http://jakir.me/
+15) https://tanvir002700.wordpress.com/
+16) http://subeen.com/
+17) https://nuhil.net/
+18) http://www.progkriya.org/gyan/
+19) https://sites.google.com/site/programinggconcept/home
+20) https://bazlur.com/
+21) http://tuts.nanodesignsbd.com/
+22) http://www.progkriya.org/gyan/
+23) https://mukitmkbs.wordpress.com/
+24) http://shoshikkha.com/
+25) http://mrubel.com/java/
+26) https://www.somewhereinblog.net/blog/ragibhasanblog/
+27) https://rezwanarefin01.github.io/
+28) https://iishanto.com/
+29) https://techsharif.com/
+30) http://shakilcompetitiveprogramming.blogspot.com/
+31) http://www.shafaetsplanet.com/planetcoding/
+32) http://samirdas.com/
+33)  https://www.facebook.com/SD.Turja ==
+34) https://returnzerooo.wordpress.com/
+35) https://hellohasan.com/
+36) https://hasin.me/
+37) https://with.dibakar.me/en/
+38) https://with.zonayed.me/
