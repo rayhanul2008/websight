@@ -1,3 +1,6 @@
+### English
+* http://www.fkenglish.com/
+
 ### websight
 https://github.com/Munmud/bangla-programming-resources
 1) https://www.howtocode.dev/
